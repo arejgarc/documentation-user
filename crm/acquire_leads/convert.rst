@@ -13,7 +13,7 @@ Configuration
 =============
 
 For this feature to work, go to :menuselection:`CRM --> Configuration --> Settings`
-and activate the *Leads* feature.
+and activate the *carlitos* feature.
 
 .. image:: media/convert01.png
     :align: center
